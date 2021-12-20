@@ -1,0 +1,67 @@
+body {
+    background-color: lightseagreen;
+}
+
+p {
+    color:lightpink;
+}
+
+.css-class {
+    background-color: limegreen;
+}
+
+.css-class h1 {
+    font-size: 12px;
+}
+
+.css-class p {
+    color: palevioletred;
+    font-size: 10px;
+}
+#number-one {
+    color: yellow;
+}
+
+#number-two {
+    font-size: 20px;
+}
+
+.title {
+    text-align: left;
+}
+
+.container {
+    border: 4px sienna;
+
+     /* margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px; */ 
+    margin: 100px 100px 100px 100px;
+    padding: 15px 15px 20px 20px;
+}
+
+p {
+    height: 30px;
+    background-color: black;
+    color: gold;
+    border: 6px solid white;
+}
+
+#margin-experiment-1,
+#margin-experiment-2 {
+    margin: 5px;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.border-style li:nth-child(1) {
+    border-style: groove;
+}
+
+h4 {
+    color: palevioletred;
+    border: 20px solid blueviolet; 
+}
